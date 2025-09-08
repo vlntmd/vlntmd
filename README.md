@@ -1,6 +1,6 @@
 ### ***Hello world! I’m Valent***
+![valent](https://github.com/user-attachments/assets/76662359-b3b0-4028-97ef-1ca2389c3bd4)
 
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9bdb9edb-2c6b-49ef-9768-a12867401b97)
 
 <!--
 **vlntmd/vlntmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
