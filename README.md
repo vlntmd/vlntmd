@@ -1,4 +1,5 @@
-## Hi there 👋
+### ***Hello world! I’m Valent***
+![sanemi](img/ezgif.com-video-to-gif-converter.gif)
 
 <!--
 **vlntmd/vlntmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***A student who loves exploring new technologies and frameworks. I’m always exploring new trends, from AI to blockchain, and constantly developing my skills.Coding isn’t just my job,it’s my passion. Feel free to connect with me on GitHub or through my social media!***
