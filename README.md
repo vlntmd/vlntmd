@@ -1,5 +1,5 @@
 ### ***Hello world! I’m Valent***
-![valent](https://github.com/user-attachments/assets/76662359-b3b0-4028-97ef-1ca2389c3bd4)
+![valent](https://github.com/user-attachments/assets/f39b02c8-c89f-4947-b583-02588752a7e2)
 
 
 <!--
