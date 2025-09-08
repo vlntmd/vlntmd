@@ -1,5 +1,4 @@
 ### ***Hello world! I’m Valent***
-![sanemi](img/ezgif.com-video-to-gif-converter.gif)
 ![sanemi](https://github.com/user-attachments/assets/32816aae-c25d-46a7-950c-da0a8bc1cdff)
 
 <!--
